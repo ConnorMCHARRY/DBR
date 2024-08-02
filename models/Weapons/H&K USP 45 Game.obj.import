@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://tncutdut7k2p"
+path="res://.godot/imported/H&K USP 45 Game.obj-aeb25677fa0a2940e636ad20b8de1bdb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/H&K USP 45 Game.obj-aeb25677fa0a2940e636ad20b8de1bdb.mesh"]
+
+source_file="res://models/Weapons/H&K USP 45 Game.obj"
+dest_files=["res://.godot/imported/H&K USP 45 Game.obj-aeb25677fa0a2940e636ad20b8de1bdb.mesh", "res://.godot/imported/H&K USP 45 Game.obj-aeb25677fa0a2940e636ad20b8de1bdb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://vjxxd5q6vnju"]
+
+[ext_resource type="PackedScene" uid="uid://2uf40vhxum21" path="res://models/Weapons/glock18.fbx" id="1_f85v8"]
+
+[node name="Pistol" instance=ExtResource("1_f85v8")]
+transform = Transform3D(1, 0, 0, 0, -4.37114e-08, -1, 0, 1, -4.37114e-08, 0, 0, 0)
